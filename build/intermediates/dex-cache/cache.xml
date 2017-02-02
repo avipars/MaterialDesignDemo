@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\avi\Downloads\MaterialDesignDemo_1.5\MaterialDesignDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="C:\Users\avi\Downloads\MaterialDesignDemo_1.5\MaterialDesignDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.1_26876f1406d80941162f88e1b79db2d9facb6187\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\avi\Downloads\MaterialDesignDemo_1.5\MaterialDesignDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="56f264e311613680721b1a94a9acba006f8109bf">
+        <dex dex="C:\Users\avi\Downloads\MaterialDesignDemo_1.5\MaterialDesignDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_436a75ab7e15ab758c000fab912e0ab30dfd846f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\avi\Downloads\MaterialDesignDemo_1.5\MaterialDesignDemo\app\build\intermediates\exploded-aar\com.android.support\design\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="C:\Users\avi\Downloads\MaterialDesignDemo_1.5\MaterialDesignDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.1.1_ec3bd1202bf1b41d092fe315b0fab98bd6d6a5ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\avi\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="C:\Users\avi\Downloads\MaterialDesignDemo_1.5\MaterialDesignDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.1_e0dff2a7c9feab13b3189ae670efe9d960a38bf8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\avi\Downloads\MaterialDesignDemo_1.5\MaterialDesignDemo\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4add8aa95c9f4e9a2ad64b7e2bf08e97e28955c1">
+        <dex dex="C:\Users\avi\Downloads\MaterialDesignDemo_1.5\MaterialDesignDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.1.1_f7cadf352d77cb055979442c1dd7609d0f3b812d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\avi\Downloads\MaterialDesignDemo_1.5\MaterialDesignDemo\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="C:\Users\avi\Downloads\MaterialDesignDemo_1.5\MaterialDesignDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.1.1_3bf5787980c90d9c8e404e9ae498c98121a38ad5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\avi\Downloads\MaterialDesignDemo_1.5\MaterialDesignDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="C:\Users\avi\Downloads\MaterialDesignDemo_1.5\MaterialDesignDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_e03b93f45ed6fb7fd23867034a2d44d7889096d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\avi\Downloads\MaterialDesignDemo_1.5\MaterialDesignDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="eb2795323aff370c16358a51e35b2965dd010a31">
+        <dex dex="C:\Users\avi\Downloads\MaterialDesignDemo_1.5\MaterialDesignDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d0798c53c63c6bb7d1f48c21fd8404a247f5d1c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\avi\Downloads\MaterialDesignDemo_1.5\MaterialDesignDemo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="C:\Users\avi\Downloads\MaterialDesignDemo_1.5\MaterialDesignDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.1.1_52d2d1e39f76a47b502475d2080bf04226e67756\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\avi\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\Users\avi\Downloads\MaterialDesignDemo_1.5\MaterialDesignDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_cb49f7f1aebad75c2ad9347c2475581271eab3fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\avi\Downloads\MaterialDesignDemo_1.5\MaterialDesignDemo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="C:\Users\avi\Downloads\MaterialDesignDemo_1.5\MaterialDesignDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.1.1_8341067ec434abc3d37bca6bb6656f29de9114ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\avi\Downloads\MaterialDesignDemo_1.5\MaterialDesignDemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="C:\Users\avi\Downloads\MaterialDesignDemo_1.5\MaterialDesignDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.1.1_ac789225778fc1d196903f2ace838d415dc6b0c6\classes.dex" />
+    </item>
+
+</items>
